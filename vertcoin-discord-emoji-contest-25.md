@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: cp
 title: vertcoin-discord-emoji-contest-25
 author: dismad
 date: January 12, 2025
@@ -7,13 +7,11 @@ amount: 5000 VTC
 milestones:
   - name: Emoji Contest Community Fund
     funds: 100%
-    done:
-    status: unfinished
+    done: June 9, 2025
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: June 9, 2025
+    amount: 5018
 ---
 
 
